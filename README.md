@@ -131,11 +131,11 @@ http://SERVER_IP:25461/live/USERNAME/PASSWORD/2.ts
 Example:
 
 ```text
-http://93.186.201.221:25461/live/amar/amar/2.ts
+http://SERVER_IP:25461/live/USERNAME/PASSWORD/2.ts
 ```
 
 API Test:
 
 ```text
-http://SERVER_IP:25461/player_api.php?username=USERNAME&pass=PASSWORD
+http://SERVER_IP:25461/player_api.php?username=USERNAME&password=PASSWORD
 ```
